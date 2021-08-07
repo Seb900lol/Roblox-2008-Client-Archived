@@ -1,4 +1,6 @@
+this client was found by CloneTrooper1019 (with is now archived)
 
+Helpful Commands
 
 Create a player:
 game.Players:CreateLocalPlayer(0)
